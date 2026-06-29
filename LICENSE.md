@@ -1,4 +1,4 @@
-# 
+# Exclusivo Figma plantillas para Mac OS | Actualizado Figma plantillas para PC Windows. Con animación por fotogramas clave y exportar a SVG — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
